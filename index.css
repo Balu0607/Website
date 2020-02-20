@@ -1,0 +1,25 @@
+.navbar-nav {
+  margin-right: 20px; /* placed the navbar Items to the right */
+}
+
+.image{
+  height: 320px;
+  background-image: url('cooper.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+     background-position: center;
+}
+
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  padding: 110px 0 0 160px;
+  color: #fff;
+  font-size: 2.5rem;
+}
+
+h3{
+  font-family: 'Ubuntu', sans-serif;
+  padding-left: 500px;
+  color: #fff;
+  font-size: 2rem;
+}
